@@ -13,6 +13,14 @@ header {
   width: 68px;
   height: 64px;
 }
+
+.img-mobile {
+  display: block;
+}
+
+.img-desktop {
+  display: none;
+}
 .navigation-menu {
   margin-top: 24px;
 }
